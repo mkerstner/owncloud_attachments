@@ -1,4 +1,4 @@
-# rc_ocattachments
+# rcocattachments
 A Roundcube Webmail plugin to automatically upload attachments to OwnCloud server and embed shareable links in e-mails.
 
 Use this plugin to save your attachments to an OwnCloud server by creating a shareable link, thus minimizing your mail quote.
