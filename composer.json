@@ -1,0 +1,36 @@
+{
+    "description": "Roundcube owncloud attachments plugin",
+    "keywords": ["roundcube", "owncloud", "attachments"],
+    "homepage": "https://www.kerstner.at",
+    "name": "mkerstner/rcocattachments",
+    "type": "roundcube-plugin",
+    "license": "Apache 2.0",
+    "_comment": [""],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://plugins.roundcube.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "roundcube/plugin-installer": ">=0.1.6"
+    }
+    "authors": [
+        {
+            "name": "Matthias Kerstner",
+            "email": "matthias.kerstner@gmail.com",
+            "homepage": "https://www.kerstner.at"
+        }
+    ],
+    "autoload": {
+    },
+    "scripts": {
+        "post-install-cmd": [
+        ],
+        "post-update-cmd": [
+        ]
+    },
+    "extra": {
+    }
+}
